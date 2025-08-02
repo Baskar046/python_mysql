@@ -26,7 +26,7 @@ class main(contact):
         host="localhost",
         database="contact_info",
         user="root",        
-        password="Bas@2004"     
+        password="your_mysql_password"     
 
     )
         
